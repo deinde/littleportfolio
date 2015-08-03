@@ -8,81 +8,32 @@
   <link rel="stylesheet" type="text/css" href="/assets/all-animate.css">
   <link href='http://fonts.googleapis.com/css?family=Open+Sans:300,400|Montserrat|Raleway:200,300,400,600' rel='stylesheet' type='text/css'>
  <link href='http://fonts.googleapis.com/css?family=Buenard:700' rel='stylesheet' type='text/css'>
- <style>
-      ul {         
-          padding:0 0 0 0;
-          margin:0 0 0 0;
-      }
-      ul li {     
-          list-style:none;
-          margin-bottom:25px;           
-      }
-      ul li img {
-          cursor: pointer;
-      }
-      .modal-body {
-          padding:5px !important;
-      }
-      .modal-content {
-          border-radius:0;
-      }
-      .modal-dialog img {
-          text-align:center;
-          margin:0 auto;
-      }
-    .controls{          
-        width:50px;
-        display:block;
-        font-size:11px;
-        padding-top:8px;
-        font-weight:bold;          
-    }
-    .next {
-        float:right;
-        text-align:right;
-    }
-      /*override modal for demo only*/
-      .modal-dialog {
-          max-width:500px;
-          padding-top: 90px;
-      }
-      @media screen and (min-width: 768px){
-          .modal-dialog {
-              width:500px;
-              padding-top: 90px;
-          }          
-      }
-      @media screen and (max-width:1500px){
-          #ads {
-              display:none;
-          }
-      }
-  </style>
-</head>
-<body>
-
-  <div class"container">
+ <!-- Warming Up -->
+<link href='http://fonts.googleapis.com/css?family=Buenard:700' rel='stylesheet' type='text/css'>
+<script src="http://pupunzi.com/mb.components/mb.YTPlayer/demo/inc/jquery.mb.YTPlayer.js"></script>
+ <body>
+ <div class"container">
    <nav class="navbar navbar-inverse">
       <div class="container">
         <!-- Brand and toggle get grouped for better mobile display -->
-        <div class="navbar-header">
+        <div class="navbar-header" id='#home'>
           <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-collapse-4">
             <span class="sr-only">Toggle navigation</span>
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
           </button>
-          <a class="navbar-brand" href="#">Brand</a>
+          <a class="navbar-brand" href="#">DEINDE DAWODU</a>
         </div>
     
         <!-- Collect the nav links, forms, and other content for toggling -->
         <div style='z-index:5!important' class="collapse navbar-collapse" id="navbar-collapse-4">
           <ul class="nav navbar-nav navbar-right">
-           <li><a class="smoothScroll" href="#portfolio">portfolio</a></li>  
+           <li><a class="smoothScroll" href="#six">PORTFOLIO</a></li>  
             <li><a class="smoothScroll" href="#home">HOME</a></li>
-            <li><a class="smoothScroll" href="#one">WORKS</a></li>
-            <li><a class="smoothScroll" href="#about">ABOUT</a></li>
-             <li><a class='smoothscroll'href="#contact">CONTACT</a></li>
+            <li><a class="smoothScroll" href="#one">APPS</a></li>
+            <li><a class="smoothScroll" href="#five">ABOUT</a></li>
+             <li><a class="smoothScroll" href="#contact">CONTACT</a></li>
           
           </ul>
    
@@ -92,24 +43,10 @@
 <%= yield %>
 <script type="text/javascript" src='/assets/jquery.waypoints.min.js'></script>
 <script type="text/javascript" src='/assets/waypoint-custom.js'></script>
-<script type="text/javascript" src='https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js'></script>
-<script src="http://pupunzi.com/mb.components/mb.YTPlayer/demo/inc/jquery.mb.YTPlayer.js"></script>
-<script type="text/javascript" src='/assets/photo-gallery.js'></script>
-<script type="text/javascript">
-
-  var _gaq = _gaq || [];
-  _gaq.push(['_setAccount', 'UA-36251023-1']);
-  _gaq.push(['_setDomainName', 'jqueryscript.net']);
-  _gaq.push(['_trackPageview']);
-
-  (function() {
-    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-  })();
-
-</script>
+<script type="text/javascript" src='/assets/modal.js'></script>
+<!-- <script src="http://pupunzi.com/mb.components/mb.YTPlayer/demo/inc/jquery.mb.YTPlayer.js"></script> -->
 
 <!-- </div> -->
 <!-- end of bootstrap container-->
+</body>
 </html>
