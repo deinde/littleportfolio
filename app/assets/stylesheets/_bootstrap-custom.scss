@@ -53,6 +53,21 @@ body{
   padding-bottom: 50px;
 }
 
+.btn-primary {
+  background-color: #6CC6B4 !important;
+  border: 1px solid #6CC6B4 !important;
+}
+
+.btn-primary:hover {
+  background-color: #ffffff !important;
+  color:#6CC6B4;
+  text-decoration: none!important;
+}
+a {
+  color: #fff;
+  text-decoration: none;
+}
+
 div#about p{
 
   font-size: 1.5em !important;
@@ -293,11 +308,12 @@ margin: 0px auto 15px;
 }
 .btn-primary{
 	background-color:gray;
+  color:#ffffff;
 }
 
 
 .btn-primary a:hover{
-	color:yellow!important;
+	color:#6CC6B4!important;
 }
 .btn-primary{
 	background-color:#6CC6B4!important;
