@@ -8859,18 +8859,18 @@ div#about p {
   font-weight: 100;
 }
 
-/* line 74, /Users/deindedawodu/Documents/nycda-tuts/amazon/amazon2/amazon/amazon-test/amazon5/amazon5/app/assets/stylesheets/_bootstrap-custom.scss */
+/* line 70, /Users/deindedawodu/Documents/nycda-tuts/amazon/amazon2/amazon/amazon-test/amazon5/amazon5/app/assets/stylesheets/_bootstrap-custom.scss */
 nav.navbar.navbar-inverse {
   opacity: 1;
   transition: 2s;
 }
 
-/* line 78, /Users/deindedawodu/Documents/nycda-tuts/amazon/amazon2/amazon/amazon-test/amazon5/amazon5/app/assets/stylesheets/_bootstrap-custom.scss */
+/* line 74, /Users/deindedawodu/Documents/nycda-tuts/amazon/amazon2/amazon/amazon-test/amazon5/amazon5/app/assets/stylesheets/_bootstrap-custom.scss */
 .hide-nav {
   opacity: 0;
 }
 
-/* line 81, /Users/deindedawodu/Documents/nycda-tuts/amazon/amazon2/amazon/amazon-test/amazon5/amazon5/app/assets/stylesheets/_bootstrap-custom.scss */
+/* line 77, /Users/deindedawodu/Documents/nycda-tuts/amazon/amazon2/amazon/amazon-test/amazon5/amazon5/app/assets/stylesheets/_bootstrap-custom.scss */
 .navbar-inverse {
   background-color: #fff;
   border-color: #9d9d9d;
@@ -8878,30 +8878,30 @@ nav.navbar.navbar-inverse {
   margin-bottom: 0px;
 }
 
-/* line 88, /Users/deindedawodu/Documents/nycda-tuts/amazon/amazon2/amazon/amazon-test/amazon5/amazon5/app/assets/stylesheets/_bootstrap-custom.scss */
+/* line 84, /Users/deindedawodu/Documents/nycda-tuts/amazon/amazon2/amazon/amazon-test/amazon5/amazon5/app/assets/stylesheets/_bootstrap-custom.scss */
 nav.navbar.navbar-inverse {
   opacity: 1 !important;
   z-index: 999 !important;
 }
 
-/* line 93, /Users/deindedawodu/Documents/nycda-tuts/amazon/amazon2/amazon/amazon-test/amazon5/amazon5/app/assets/stylesheets/_bootstrap-custom.scss */
+/* line 89, /Users/deindedawodu/Documents/nycda-tuts/amazon/amazon2/amazon/amazon-test/amazon5/amazon5/app/assets/stylesheets/_bootstrap-custom.scss */
 div#navbar-collapse-4 {
   background: #ffffff;
 }
 
-/* line 96, /Users/deindedawodu/Documents/nycda-tuts/amazon/amazon2/amazon/amazon-test/amazon5/amazon5/app/assets/stylesheets/_bootstrap-custom.scss */
+/* line 92, /Users/deindedawodu/Documents/nycda-tuts/amazon/amazon2/amazon/amazon-test/amazon5/amazon5/app/assets/stylesheets/_bootstrap-custom.scss */
 a.navbar-brand {
   padding-top: 62px;
 }
 
-/* line 99, /Users/deindedawodu/Documents/nycda-tuts/amazon/amazon2/amazon/amazon-test/amazon5/amazon5/app/assets/stylesheets/_bootstrap-custom.scss */
+/* line 95, /Users/deindedawodu/Documents/nycda-tuts/amazon/amazon2/amazon/amazon-test/amazon5/amazon5/app/assets/stylesheets/_bootstrap-custom.scss */
 div#navbar-collapse-4 a {
   /* padding-top: 48px; */
   position: relative;
   top: 51px;
 }
 
-/* line 104, /Users/deindedawodu/Documents/nycda-tuts/amazon/amazon2/amazon/amazon-test/amazon5/amazon5/app/assets/stylesheets/_bootstrap-custom.scss */
+/* line 100, /Users/deindedawodu/Documents/nycda-tuts/amazon/amazon2/amazon/amazon-test/amazon5/amazon5/app/assets/stylesheets/_bootstrap-custom.scss */
 .jumbotron {
   background: url("/assets/working.jpg");
   background-size: cover;
@@ -8913,7 +8913,7 @@ div#navbar-collapse-4 a {
   padding-top: 0px;
 }
 
-/* line 115, /Users/deindedawodu/Documents/nycda-tuts/amazon/amazon2/amazon/amazon-test/amazon5/amazon5/app/assets/stylesheets/_bootstrap-custom.scss */
+/* line 111, /Users/deindedawodu/Documents/nycda-tuts/amazon/amazon2/amazon/amazon-test/amazon5/amazon5/app/assets/stylesheets/_bootstrap-custom.scss */
 #overlay {
   position: relative;
   background-color: #000;
@@ -8923,12 +8923,12 @@ div#navbar-collapse-4 a {
   transition: 1s;
 }
 
-/* line 123, /Users/deindedawodu/Documents/nycda-tuts/amazon/amazon2/amazon/amazon-test/amazon5/amazon5/app/assets/stylesheets/_bootstrap-custom.scss */
+/* line 119, /Users/deindedawodu/Documents/nycda-tuts/amazon/amazon2/amazon/amazon-test/amazon5/amazon5/app/assets/stylesheets/_bootstrap-custom.scss */
 .heysdtrans {
   background: transparent !important;
 }
 
-/* line 127, /Users/deindedawodu/Documents/nycda-tuts/amazon/amazon2/amazon/amazon-test/amazon5/amazon5/app/assets/stylesheets/_bootstrap-custom.scss */
+/* line 123, /Users/deindedawodu/Documents/nycda-tuts/amazon/amazon2/amazon/amazon-test/amazon5/amazon5/app/assets/stylesheets/_bootstrap-custom.scss */
 p {
   font-size: 1.5em !important;
   padding-top: 20px;
@@ -8937,14 +8937,14 @@ p {
   font-weight: 100;
 }
 
-/* line 132, /Users/deindedawodu/Documents/nycda-tuts/amazon/amazon2/amazon/amazon-test/amazon5/amazon5/app/assets/stylesheets/_bootstrap-custom.scss */
+/* line 128, /Users/deindedawodu/Documents/nycda-tuts/amazon/amazon2/amazon/amazon-test/amazon5/amazon5/app/assets/stylesheets/_bootstrap-custom.scss */
 h1 {
   font-family: Montserrat, "Helvetica Neue", Helvetica;
   font-size: 2.5em;
   font-weight: 400;
 }
 
-/* line 133, /Users/deindedawodu/Documents/nycda-tuts/amazon/amazon2/amazon/amazon-test/amazon5/amazon5/app/assets/stylesheets/_bootstrap-custom.scss */
+/* line 131, /Users/deindedawodu/Documents/nycda-tuts/amazon/amazon2/amazon/amazon-test/amazon5/amazon5/app/assets/stylesheets/_bootstrap-custom.scss */
 h2 {
   font-family: Raleway, "Helvetica Neue", Helvetica;
   font-size: 24px;
@@ -8958,7 +8958,7 @@ h3 {
   font-weight: 400;
 }
 
-/* line 135, /Users/deindedawodu/Documents/nycda-tuts/amazon/amazon2/amazon/amazon-test/amazon5/amazon5/app/assets/stylesheets/_bootstrap-custom.scss */
+/* line 137, /Users/deindedawodu/Documents/nycda-tuts/amazon/amazon2/amazon/amazon-test/amazon5/amazon5/app/assets/stylesheets/_bootstrap-custom.scss */
 .jumbotron h1.text-center {
   color: #fff;
   font-size: 6em;
@@ -8970,7 +8970,7 @@ h3 {
   -moz-text-shadow: 1px 1px 1px #000;
 }
 
-/* line 146, /Users/deindedawodu/Documents/nycda-tuts/amazon/amazon2/amazon/amazon-test/amazon5/amazon5/app/assets/stylesheets/_bootstrap-custom.scss */
+/* line 148, /Users/deindedawodu/Documents/nycda-tuts/amazon/amazon2/amazon/amazon-test/amazon5/amazon5/app/assets/stylesheets/_bootstrap-custom.scss */
 button#singlebutton {
   position: relative;
   width: 194px;
@@ -8980,7 +8980,7 @@ button#singlebutton {
   font-size: 2em;
 }
 
-/* line 155, /Users/deindedawodu/Documents/nycda-tuts/amazon/amazon2/amazon/amazon-test/amazon5/amazon5/app/assets/stylesheets/_bootstrap-custom.scss */
+/* line 157, /Users/deindedawodu/Documents/nycda-tuts/amazon/amazon2/amazon/amazon-test/amazon5/amazon5/app/assets/stylesheets/_bootstrap-custom.scss */
 .up {
   position: relative;
   top: 10px;
@@ -8988,14 +8988,14 @@ button#singlebutton {
   transition: 2s;
 }
 
-/* line 162, /Users/deindedawodu/Documents/nycda-tuts/amazon/amazon2/amazon/amazon-test/amazon5/amazon5/app/assets/stylesheets/_bootstrap-custom.scss */
+/* line 164, /Users/deindedawodu/Documents/nycda-tuts/amazon/amazon2/amazon/amazon-test/amazon5/amazon5/app/assets/stylesheets/_bootstrap-custom.scss */
 .up-tran {
   position: relative !important;
   opacity: 1 !important;
   top: -22px !important;
 }
 
-/* line 168, /Users/deindedawodu/Documents/nycda-tuts/amazon/amazon2/amazon/amazon-test/amazon5/amazon5/app/assets/stylesheets/_bootstrap-custom.scss */
+/* line 170, /Users/deindedawodu/Documents/nycda-tuts/amazon/amazon2/amazon/amazon-test/amazon5/amazon5/app/assets/stylesheets/_bootstrap-custom.scss */
 #owl-tablet {
   position: relative;
   float: left;
@@ -9003,7 +9003,7 @@ button#singlebutton {
   transition: 2s;
 }
 
-/* line 174, /Users/deindedawodu/Documents/nycda-tuts/amazon/amazon2/amazon/amazon-test/amazon5/amazon5/app/assets/stylesheets/_bootstrap-custom.scss */
+/* line 176, /Users/deindedawodu/Documents/nycda-tuts/amazon/amazon2/amazon/amazon-test/amazon5/amazon5/app/assets/stylesheets/_bootstrap-custom.scss */
 #owl-phone {
   position: relative;
   float: right !important;
@@ -9011,24 +9011,24 @@ button#singlebutton {
   transition: 2s;
 }
 
-/* line 180, /Users/deindedawodu/Documents/nycda-tuts/amazon/amazon2/amazon/amazon-test/amazon5/amazon5/app/assets/stylesheets/_bootstrap-custom.scss */
+/* line 182, /Users/deindedawodu/Documents/nycda-tuts/amazon/amazon2/amazon/amazon-test/amazon5/amazon5/app/assets/stylesheets/_bootstrap-custom.scss */
 .owl-tab {
   position: relative;
   left: 85px !important;
 }
 
-/* line 184, /Users/deindedawodu/Documents/nycda-tuts/amazon/amazon2/amazon/amazon-test/amazon5/amazon5/app/assets/stylesheets/_bootstrap-custom.scss */
+/* line 186, /Users/deindedawodu/Documents/nycda-tuts/amazon/amazon2/amazon/amazon-test/amazon5/amazon5/app/assets/stylesheets/_bootstrap-custom.scss */
 .owl-tele {
   position: relative;
   right: 85px !important;
 }
 
-/* line 188, /Users/deindedawodu/Documents/nycda-tuts/amazon/amazon2/amazon/amazon-test/amazon5/amazon5/app/assets/stylesheets/_bootstrap-custom.scss */
+/* line 190, /Users/deindedawodu/Documents/nycda-tuts/amazon/amazon2/amazon/amazon-test/amazon5/amazon5/app/assets/stylesheets/_bootstrap-custom.scss */
 .heysd {
   -webkit-animation: light-it 2s  linear;
 }
 
-/* line 191, /Users/deindedawodu/Documents/nycda-tuts/amazon/amazon2/amazon/amazon-test/amazon5/amazon5/app/assets/stylesheets/_bootstrap-custom.scss */
+/* line 193, /Users/deindedawodu/Documents/nycda-tuts/amazon/amazon2/amazon/amazon-test/amazon5/amazon5/app/assets/stylesheets/_bootstrap-custom.scss */
 .js-dipper-animate {
   opacity: 1;
   -webkit-animation: hustle 2s 1 linear,dipper-jiggle 1s linear;
@@ -9066,7 +9066,7 @@ button#singlebutton {
   }
 }
 /*This is the css for video */
-/* line 238, /Users/deindedawodu/Documents/nycda-tuts/amazon/amazon2/amazon/amazon-test/amazon5/amazon5/app/assets/stylesheets/_bootstrap-custom.scss */
+/* line 240, /Users/deindedawodu/Documents/nycda-tuts/amazon/amazon2/amazon/amazon-test/amazon5/amazon5/app/assets/stylesheets/_bootstrap-custom.scss */
 .video-section .pattern-overlay {
   background-color: rgba(71, 71, 71, 0.59);
   padding: 110px 0 32px;
@@ -9074,13 +9074,13 @@ button#singlebutton {
   /* Incase of overlay problems just increase the min-height*/
 }
 
-/* line 244, /Users/deindedawodu/Documents/nycda-tuts/amazon/amazon2/amazon/amazon-test/amazon5/amazon5/app/assets/stylesheets/_bootstrap-custom.scss */
+/* line 246, /Users/deindedawodu/Documents/nycda-tuts/amazon/amazon2/amazon/amazon-test/amazon5/amazon5/app/assets/stylesheets/_bootstrap-custom.scss */
 .video-section h1, .video-section h3 {
   text-align: center;
   color: #fff;
 }
 
-/* line 248, /Users/deindedawodu/Documents/nycda-tuts/amazon/amazon2/amazon/amazon-test/amazon5/amazon5/app/assets/stylesheets/_bootstrap-custom.scss */
+/* line 250, /Users/deindedawodu/Documents/nycda-tuts/amazon/amazon2/amazon/amazon-test/amazon5/amazon5/app/assets/stylesheets/_bootstrap-custom.scss */
 .video-section h1 {
   font-size: 110px;
   font-family: Raleway, Montserrat, "Helvetica Neue", Helvetica;
@@ -9092,45 +9092,45 @@ button#singlebutton {
   -moz-text-shadow: 1px 1px 1px #000;
 }
 
-/* line 258, /Users/deindedawodu/Documents/nycda-tuts/amazon/amazon2/amazon/amazon-test/amazon5/amazon5/app/assets/stylesheets/_bootstrap-custom.scss */
+/* line 260, /Users/deindedawodu/Documents/nycda-tuts/amazon/amazon2/amazon/amazon-test/amazon5/amazon5/app/assets/stylesheets/_bootstrap-custom.scss */
 .video-section h3 {
   font-size: 25px;
   font-weight: lighter;
   margin: 0px auto 15px;
 }
 
-/* line 263, /Users/deindedawodu/Documents/nycda-tuts/amazon/amazon2/amazon/amazon-test/amazon5/amazon5/app/assets/stylesheets/_bootstrap-custom.scss */
+/* line 265, /Users/deindedawodu/Documents/nycda-tuts/amazon/amazon2/amazon/amazon-test/amazon5/amazon5/app/assets/stylesheets/_bootstrap-custom.scss */
 .video-section .buttonBar {
   display: none;
 }
 
-/* line 264, /Users/deindedawodu/Documents/nycda-tuts/amazon/amazon2/amazon/amazon-test/amazon5/amazon5/app/assets/stylesheets/_bootstrap-custom.scss */
+/* line 268, /Users/deindedawodu/Documents/nycda-tuts/amazon/amazon2/amazon/amazon-test/amazon5/amazon5/app/assets/stylesheets/_bootstrap-custom.scss */
 .player {
   font-size: 1px;
 }
 
-/* line 267, /Users/deindedawodu/Documents/nycda-tuts/amazon/amazon2/amazon/amazon-test/amazon5/amazon5/app/assets/stylesheets/_bootstrap-custom.scss */
+/* line 271, /Users/deindedawodu/Documents/nycda-tuts/amazon/amazon2/amazon/amazon-test/amazon5/amazon5/app/assets/stylesheets/_bootstrap-custom.scss */
 .bar {
   height: 80px;
   background-color: #ffffff;
   z-index: 999 !important;
 }
 
-/* line 273, /Users/deindedawodu/Documents/nycda-tuts/amazon/amazon2/amazon/amazon-test/amazon5/amazon5/app/assets/stylesheets/_bootstrap-custom.scss */
+/* line 277, /Users/deindedawodu/Documents/nycda-tuts/amazon/amazon2/amazon/amazon-test/amazon5/amazon5/app/assets/stylesheets/_bootstrap-custom.scss */
 .bar-grey {
   height: 80px;
   background-color: #E8E8E8;
   z-index: 999 !important;
 }
 
-/* line 278, /Users/deindedawodu/Documents/nycda-tuts/amazon/amazon2/amazon/amazon-test/amazon5/amazon5/app/assets/stylesheets/_bootstrap-custom.scss */
+/* line 282, /Users/deindedawodu/Documents/nycda-tuts/amazon/amazon2/amazon/amazon-test/amazon5/amazon5/app/assets/stylesheets/_bootstrap-custom.scss */
 .bar-tiffany {
   height: 80px;
   background-color: #6CC6B4;
   z-index: 999 !important;
 }
 
-/* line 284, /Users/deindedawodu/Documents/nycda-tuts/amazon/amazon2/amazon/amazon-test/amazon5/amazon5/app/assets/stylesheets/_bootstrap-custom.scss */
+/* line 288, /Users/deindedawodu/Documents/nycda-tuts/amazon/amazon2/amazon/amazon-test/amazon5/amazon5/app/assets/stylesheets/_bootstrap-custom.scss */
 .bar-zebra {
   height: 100px;
   background-color: #04e1df;
@@ -9138,52 +9138,52 @@ button#singlebutton {
   background-repeat: repeat;
 }
 
-/* line 290, /Users/deindedawodu/Documents/nycda-tuts/amazon/amazon2/amazon/amazon-test/amazon5/amazon5/app/assets/stylesheets/_bootstrap-custom.scss */
+/* line 294, /Users/deindedawodu/Documents/nycda-tuts/amazon/amazon2/amazon/amazon-test/amazon5/amazon5/app/assets/stylesheets/_bootstrap-custom.scss */
 .btn-primary {
   background-color: gray;
 }
 
-/* line 295, /Users/deindedawodu/Documents/nycda-tuts/amazon/amazon2/amazon/amazon-test/amazon5/amazon5/app/assets/stylesheets/_bootstrap-custom.scss */
+/* line 299, /Users/deindedawodu/Documents/nycda-tuts/amazon/amazon2/amazon/amazon-test/amazon5/amazon5/app/assets/stylesheets/_bootstrap-custom.scss */
 .btn-primary a:hover {
   color: yellow !important;
 }
 
-/* line 298, /Users/deindedawodu/Documents/nycda-tuts/amazon/amazon2/amazon/amazon-test/amazon5/amazon5/app/assets/stylesheets/_bootstrap-custom.scss */
+/* line 302, /Users/deindedawodu/Documents/nycda-tuts/amazon/amazon2/amazon/amazon-test/amazon5/amazon5/app/assets/stylesheets/_bootstrap-custom.scss */
 .btn-primary {
   background-color: #6CC6B4 !important;
 }
 
-/* line 302, /Users/deindedawodu/Documents/nycda-tuts/amazon/amazon2/amazon/amazon-test/amazon5/amazon5/app/assets/stylesheets/_bootstrap-custom.scss */
+/* line 306, /Users/deindedawodu/Documents/nycda-tuts/amazon/amazon2/amazon/amazon-test/amazon5/amazon5/app/assets/stylesheets/_bootstrap-custom.scss */
 .texter {
   text-align: center !important;
 }
 
-/* line 305, /Users/deindedawodu/Documents/nycda-tuts/amazon/amazon2/amazon/amazon-test/amazon5/amazon5/app/assets/stylesheets/_bootstrap-custom.scss */
+/* line 309, /Users/deindedawodu/Documents/nycda-tuts/amazon/amazon2/amazon/amazon-test/amazon5/amazon5/app/assets/stylesheets/_bootstrap-custom.scss */
 .row.three p {
   padding-right: 40px;
   padding-left: 40px;
 }
 
-/* line 312, /Users/deindedawodu/Documents/nycda-tuts/amazon/amazon2/amazon/amazon-test/amazon5/amazon5/app/assets/stylesheets/_bootstrap-custom.scss */
+/* line 316, /Users/deindedawodu/Documents/nycda-tuts/amazon/amazon2/amazon/amazon-test/amazon5/amazon5/app/assets/stylesheets/_bootstrap-custom.scss */
 h1.text-center.gray {
   color: gray;
   margin-top: 120px;
   margin-bottom: 90px;
 }
 
-/* line 318, /Users/deindedawodu/Documents/nycda-tuts/amazon/amazon2/amazon/amazon-test/amazon5/amazon5/app/assets/stylesheets/_bootstrap-custom.scss */
+/* line 322, /Users/deindedawodu/Documents/nycda-tuts/amazon/amazon2/amazon/amazon-test/amazon5/amazon5/app/assets/stylesheets/_bootstrap-custom.scss */
 h1.text-left {
   left: 38px;
   position: relative;
   color: gray;
 }
 
-/* line 323, /Users/deindedawodu/Documents/nycda-tuts/amazon/amazon2/amazon/amazon-test/amazon5/amazon5/app/assets/stylesheets/_bootstrap-custom.scss */
+/* line 327, /Users/deindedawodu/Documents/nycda-tuts/amazon/amazon2/amazon/amazon-test/amazon5/amazon5/app/assets/stylesheets/_bootstrap-custom.scss */
 h1.pull-left {
   color: gray;
 }
 
-/* line 328, /Users/deindedawodu/Documents/nycda-tuts/amazon/amazon2/amazon/amazon-test/amazon5/amazon5/app/assets/stylesheets/_bootstrap-custom.scss */
+/* line 332, /Users/deindedawodu/Documents/nycda-tuts/amazon/amazon2/amazon/amazon-test/amazon5/amazon5/app/assets/stylesheets/_bootstrap-custom.scss */
 #contact img {
   position: relative;
   top: 2em;
@@ -9192,7 +9192,7 @@ h1.pull-left {
   padding-left: 3em;
 }
 
-/* line 336, /Users/deindedawodu/Documents/nycda-tuts/amazon/amazon2/amazon/amazon-test/amazon5/amazon5/app/assets/stylesheets/_bootstrap-custom.scss */
+/* line 340, /Users/deindedawodu/Documents/nycda-tuts/amazon/amazon2/amazon/amazon-test/amazon5/amazon5/app/assets/stylesheets/_bootstrap-custom.scss */
 #contact h1 {
   font-family: Montserrat, "Helvetica Neue", Helvetica;
   color: gray;
@@ -9200,36 +9200,36 @@ h1.pull-left {
   font-size: 2.5em;
 }
 
-/* line 342, /Users/deindedawodu/Documents/nycda-tuts/amazon/amazon2/amazon/amazon-test/amazon5/amazon5/app/assets/stylesheets/_bootstrap-custom.scss */
+/* line 346, /Users/deindedawodu/Documents/nycda-tuts/amazon/amazon2/amazon/amazon-test/amazon5/amazon5/app/assets/stylesheets/_bootstrap-custom.scss */
 ul li {
   display: inline;
 }
 
-/* line 348, /Users/deindedawodu/Documents/nycda-tuts/amazon/amazon2/amazon/amazon-test/amazon5/amazon5/app/assets/stylesheets/_bootstrap-custom.scss */
+/* line 352, /Users/deindedawodu/Documents/nycda-tuts/amazon/amazon2/amazon/amazon-test/amazon5/amazon5/app/assets/stylesheets/_bootstrap-custom.scss */
 .modal-dialog .btn-default {
   background-color: #6CC6B4;
   border-color: transparent;
   color: #ffffff;
 }
 
-/* line 353, /Users/deindedawodu/Documents/nycda-tuts/amazon/amazon2/amazon/amazon-test/amazon5/amazon5/app/assets/stylesheets/_bootstrap-custom.scss */
+/* line 357, /Users/deindedawodu/Documents/nycda-tuts/amazon/amazon2/amazon/amazon-test/amazon5/amazon5/app/assets/stylesheets/_bootstrap-custom.scss */
 .modal-dialog {
   width: 600px;
 }
 
-/* line 356, /Users/deindedawodu/Documents/nycda-tuts/amazon/amazon2/amazon/amazon-test/amazon5/amazon5/app/assets/stylesheets/_bootstrap-custom.scss */
+/* line 360, /Users/deindedawodu/Documents/nycda-tuts/amazon/amazon2/amazon/amazon-test/amazon5/amazon5/app/assets/stylesheets/_bootstrap-custom.scss */
 .thumbnail {
   margin-bottom: 6px;
   margin: 0 auto;
   border: 0px solid gray;
 }
 
-/* line 361, /Users/deindedawodu/Documents/nycda-tuts/amazon/amazon2/amazon/amazon-test/amazon5/amazon5/app/assets/stylesheets/_bootstrap-custom.scss */
+/* line 365, /Users/deindedawodu/Documents/nycda-tuts/amazon/amazon2/amazon/amazon-test/amazon5/amazon5/app/assets/stylesheets/_bootstrap-custom.scss */
 .modal-header {
   background-color: #6CC6B4;
 }
 
-/* line 365, /Users/deindedawodu/Documents/nycda-tuts/amazon/amazon2/amazon/amazon-test/amazon5/amazon5/app/assets/stylesheets/_bootstrap-custom.scss */
+/* line 369, /Users/deindedawodu/Documents/nycda-tuts/amazon/amazon2/amazon/amazon-test/amazon5/amazon5/app/assets/stylesheets/_bootstrap-custom.scss */
 .video-section .pattern-overlay {
   background-color: rgba(71, 71, 71, 0.59);
   padding: 110px 0 32px;
@@ -9237,13 +9237,13 @@ ul li {
   /* Incase of overlay problems just increase the min-height*/
 }
 
-/* line 371, /Users/deindedawodu/Documents/nycda-tuts/amazon/amazon2/amazon/amazon-test/amazon5/amazon5/app/assets/stylesheets/_bootstrap-custom.scss */
+/* line 375, /Users/deindedawodu/Documents/nycda-tuts/amazon/amazon2/amazon/amazon-test/amazon5/amazon5/app/assets/stylesheets/_bootstrap-custom.scss */
 .video-section h1, .video-section h3 {
   text-align: center;
   color: #fff;
 }
 
-/* line 375, /Users/deindedawodu/Documents/nycda-tuts/amazon/amazon2/amazon/amazon-test/amazon5/amazon5/app/assets/stylesheets/_bootstrap-custom.scss */
+/* line 379, /Users/deindedawodu/Documents/nycda-tuts/amazon/amazon2/amazon/amazon-test/amazon5/amazon5/app/assets/stylesheets/_bootstrap-custom.scss */
 .video-section h1 {
   position: relative;
   top: 90px;
@@ -9258,19 +9258,19 @@ ul li {
   -moz-text-shadow: 1px 1px 1px #000;
 }
 
-/* line 388, /Users/deindedawodu/Documents/nycda-tuts/amazon/amazon2/amazon/amazon-test/amazon5/amazon5/app/assets/stylesheets/_bootstrap-custom.scss */
+/* line 392, /Users/deindedawodu/Documents/nycda-tuts/amazon/amazon2/amazon/amazon-test/amazon5/amazon5/app/assets/stylesheets/_bootstrap-custom.scss */
 .video-section h3 {
   font-size: 25px;
   font-weight: lighter;
   margin: 0px auto 15px;
 }
 
-/* line 393, /Users/deindedawodu/Documents/nycda-tuts/amazon/amazon2/amazon/amazon-test/amazon5/amazon5/app/assets/stylesheets/_bootstrap-custom.scss */
+/* line 397, /Users/deindedawodu/Documents/nycda-tuts/amazon/amazon2/amazon/amazon-test/amazon5/amazon5/app/assets/stylesheets/_bootstrap-custom.scss */
 .video-section .buttonBar {
   display: none;
 }
 
-/* line 394, /Users/deindedawodu/Documents/nycda-tuts/amazon/amazon2/amazon/amazon-test/amazon5/amazon5/app/assets/stylesheets/_bootstrap-custom.scss */
+/* line 398, /Users/deindedawodu/Documents/nycda-tuts/amazon/amazon2/amazon/amazon-test/amazon5/amazon5/app/assets/stylesheets/_bootstrap-custom.scss */
 .player {
   font-size: 1px;
 }
