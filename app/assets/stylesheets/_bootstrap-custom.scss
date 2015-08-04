@@ -56,16 +56,18 @@ body{
 .btn-primary {
   background-color: #6CC6B4 !important;
   border: 1px solid #6CC6B4 !important;
+  color: #fff!important;
 }
 
 .btn-primary:hover {
   background-color: #ffffff !important;
-  color:#6CC6B4;
+  color:#6CC6B4!important;
   text-decoration: none!important;
 }
 a {
-  color: #fff;
-  text-decoration: none;
+  color: #fff!important;
+  text-decoration:none!important;
+ 
 }
 
 div#about p{
