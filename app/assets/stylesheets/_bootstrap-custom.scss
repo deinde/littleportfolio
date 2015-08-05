@@ -192,12 +192,12 @@ button#singlebutton {
 }
 #owl-tablet{
 	position:relative;
-  left:-80px;
+  left:-80px!important;
   transition:2s ;
 }
 #owl-phone{
 	position:relative;
-  right:-230px;
+  right:-230px!important;
   transition:2s ;
 }
 .owl-tab{
