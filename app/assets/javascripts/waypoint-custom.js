@@ -2,9 +2,9 @@
 $(document).ready(function(){
  $('.three').waypoint(function(direction){
  if(direction == 'down'){
-   $('#hangy').addClass('rotate-flip');
+   $('#hangy').addClass('flip');
   }else{
-    $('#hangy').removeClass('rotate-flip');
+    $('#hangy').removeClass('flip');
   }
  },{offset:'220px'});
 });
