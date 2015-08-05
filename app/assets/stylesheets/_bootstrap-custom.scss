@@ -48,6 +48,9 @@ body{
 .one h1{
 	color:gray;
 }
+.gray{
+  color:#9d9d9d!important;
+}
 .six {
   padding-top: 50px;
   padding-bottom: 50px;
@@ -104,8 +107,11 @@ nav.navbar.navbar-inverse {
 }
 
 div#navbar-collapse-4 {
-  background: #ffffff;
+  background:#ffffff;
 }
+
+
+
 a.navbar-brand {
   padding-top: 62px;
 }

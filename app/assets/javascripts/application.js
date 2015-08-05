@@ -20,19 +20,19 @@
 
 
 ////////////video script//////////////
-$(document).ready(function () {
+// $(document).ready(function () {
 
-    $(".player").mb_YTPlayer();
+//     $(".player").mb_YTPlayer();
 
-});
-
-
+// });
 
 
-$("#hero").on('click', function(){
+
+
+// $("#hero").on('click', function(){
          
-            $("#hero").fadeOut;
-        });
+//             $("#hero").fadeOut;
+//         });
 
 
 /////////////////////lightbox////////////////
